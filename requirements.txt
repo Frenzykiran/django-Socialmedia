@@ -2,7 +2,6 @@ aiohttp
 aiosignal
 alabaster
 anaconda-client
-anaconda-project
 anyio
 appdirs
 argon2-cffi
