@@ -94,6 +94,7 @@ google-resumable-media @ file:///tmp/build/80754af9/google-resumable-media_16243
 googleapis-common-protos @ file:///C:/ci/googleapis-common-protos-feedstock_1617957814607/work
 greenlet @ file:///C:/ci/greenlet_1628888275363/work
 grpcio @ file:///C:/ci/grpcio_1637590978642/work
+gunicorn==20.1.0
 h5py @ file:///C:/ci/h5py_1637120894255/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///opt/conda/conda-bld/holoviews_1645454331194/work
@@ -319,6 +320,7 @@ wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///C:/ci/websocket-client_1614804375980/work
 Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+whitenoise==6.2.0
 widgetsnbextension @ file:///C:/ci/widgetsnbextension_1644991377168/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 win-unicode-console==0.5
