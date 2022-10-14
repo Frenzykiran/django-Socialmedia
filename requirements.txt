@@ -244,7 +244,6 @@ scipy==1.9.1
 Scrapy==2.6.2
 seaborn==0.11.2
 Send2Trash==1.8.0
-service-identity==18.1.0
 sip==4.19.13
 six==1.16.0
 sklearn==0.0
